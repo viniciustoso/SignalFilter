@@ -10,7 +10,7 @@ namespace SignalFilter
 {
     public partial class Form1 : Form
     {
-        private static List<double> SignalList = new List<double>
+        private static double[] SignalList = new double[]
         {
             -0.00000047469604,
             -0.000001306379,
