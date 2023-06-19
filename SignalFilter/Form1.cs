@@ -1,6 +1,5 @@
 ﻿using Accord.Audio.Filters;
 using System;
-using System.Collections.Generic;
 using System.Drawing;
 using System.IO;
 using System.Windows.Forms;
